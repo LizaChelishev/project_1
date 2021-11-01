@@ -1,1 +1,1 @@
-# project_1
+# word_guessing
