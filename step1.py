@@ -80,7 +80,7 @@ def bonus_points(game_start_time, game_end_time, score):
         score += 100
     return score
 
-vocabulary = [['get', 'over', 'it'], ['Grace', 'under', 'pressure'], ['go', 'for', 'it']]
+vocabulary = [['get', 'over', 'it'], ['Grace', 'under', 'pressure'], ['go', 'for', 'it'] ['do', 'your', 'best'], ['live', 'your', 'potential'],['manage', 'your', 'resistance'], ['yes', 'you', 'can'], ['this', 'will', 'pass'] ['prioritize', 'all', 'tasks'], ['keep', 'it', 'cool']]
 sentence = []
 underscore_sentence = []
 score = 0
